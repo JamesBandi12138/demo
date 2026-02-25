@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""贪吃蛇游戏 - Pygame实现"""
-
 import pygame
 import random
 import sys

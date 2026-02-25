@@ -83,8 +83,7 @@ class Game:
 
     def check_collision(self):
         head = self.snake.body[0]
-        if (head[0] < 0 or head[0] >= 400 or
-            head[1] < 0 or head[1] >= 400):
+        if (head[0] < 0 or head[0] >= 400 or head[1] < 0 or head[1] >= 400):
             return True
         if head in self.snake.body[1:]:
             return True

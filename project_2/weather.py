@@ -37,7 +37,6 @@ def main():
 
     if not args.id or not args.key:
         print("错误: 请提供API ID和Key")
-        print("获取: www.apihz.cn")
         sys.exit(1)
 
     try:

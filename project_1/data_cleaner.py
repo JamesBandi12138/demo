@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-数据清洗工具 - 简洁实用的数据处理工具
-支持CSV和Excel文件的读取、清洗和导出
-"""
-
 import os
 import sys
 from pathlib import Path

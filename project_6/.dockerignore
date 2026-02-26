@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+.idea
+.vscode
+*.md
+check.py
+train.py
+analyze_data.py

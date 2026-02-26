@@ -1,2 +1,1 @@
-# demo
-exercise
+# 假期作业

@@ -10,7 +10,6 @@ import uvicorn
 import os
 
 app = FastAPI(title='电商评论观点挖掘API')
-
 base_path = os.path.dirname(os.path.abspath(__file__))
 
 CATEGORY_LIST = ['整体', '使用体验', '功效', '价格', '物流', '气味', '包装', '真伪', '服务', '其他', '成分', '尺寸', '新鲜度']
